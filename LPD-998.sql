@@ -1,5 +1,5 @@
 select count(*) from lrt_activity_summary; --54110
-
+a
 select count(*) from ( -- 53960
 select distinct acts.acs_id
 from lrt_activity_summary acts
