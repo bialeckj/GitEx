@@ -1,3 +1,4 @@
+change done in branch b1
 select count(*) from lrt_activity_summary; --54110
 a
 next change
